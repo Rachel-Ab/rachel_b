@@ -13,5 +13,23 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.23.1",
     "prettier-eslint": "^12.0.0"
-  }
+  },
+  "name": "rachel_b",
+  "version": "1.0.0",
+  "description": "V1 de mon portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachel-Ab/rachel_b.git"
+  },
+  "author": "Rachel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachel-Ab/rachel_b/issues"
+  },
+  "homepage": "https://github.com/Rachel-Ab/rachel_b#readme"
 }
